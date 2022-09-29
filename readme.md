@@ -5,7 +5,7 @@
 
 ---
 
- ## project  [link](http://127.0.0.1:5500/paytm.html)
+ ## project  [https://paytm-clone001.netlify.app/)
 
 
  **Skills gained** through this project
